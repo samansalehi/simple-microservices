@@ -23,4 +23,13 @@ public class UserService {
             throw new UserNotFoundException(String.format("user with id %d not found",id));
         return user.get();
     }
+
+    public void deleteById(int id )
+    {
+        userRepository.deleteById(id);
+    }
+
+    public User creatUser(User user) {
+       return userRepository.save(user);
+    }
 }
