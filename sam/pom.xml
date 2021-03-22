@@ -19,6 +19,7 @@
 	<modules>
 		<module>../limit-services</module>
 		<module>../spring-cloud-config-server</module>
+		<module>../currency-echange-service</module>
 	</modules>
 	<dependencies>
 		<dependency>
