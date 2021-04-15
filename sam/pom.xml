@@ -21,6 +21,7 @@
 		<module>../spring-cloud-config-server</module>
 		<module>../currency-echange-service</module>
 		<module>../currencu-conversion-service</module>
+		<module>../servicediscovery</module>
 	</modules>
 	<dependencies>
 		<dependency>

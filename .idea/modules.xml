@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/currency-echange-service/currency-echange-service.iml" filepath="$PROJECT_DIR$/currency-echange-service/currency-echange-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/limit-services/limit-services.iml" filepath="$PROJECT_DIR$/limit-services/limit-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/sam/sam.iml" filepath="$PROJECT_DIR$/sam/sam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicediscovery/servicediscovery.iml" filepath="$PROJECT_DIR$/servicediscovery/servicediscovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/simple-microservices.iml" filepath="$PROJECT_DIR$/.idea/simple-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
     </modules>

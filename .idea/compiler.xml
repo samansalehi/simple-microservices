@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,6 +10,7 @@
         <module name="currency-echange-service" />
         <module name="currencu-conversion-service" />
         <module name="limit-services" />
+        <module name="servicediscovery" />
         <module name="sam" />
         <module name="spring-cloud-config-server" />
       </profile>
@@ -18,6 +20,8 @@
       <module name="currency-echange-service" target="11" />
       <module name="limit-services" target="11" />
       <module name="sam" target="11" />
+      <module name="service-discovery" target="11" />
+      <module name="servicediscovery" target="11" />
       <module name="spring-cloud-config-server" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -27,6 +31,8 @@
       <module name="currency-echange-service" options="-parameters" />
       <module name="limit-services" options="-parameters" />
       <module name="sam" options="-parameters" />
+      <module name="service-discovery" options="-parameters" />
+      <module name="servicediscovery" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />
     </option>
   </component>
